@@ -12,9 +12,9 @@ export const initialData = {
                     cards:[
                         { 
                             id:'card-1',
-                            boardId:'board-1', 
-                            columnId:'column-1', 
-                            title:'Title of card 1', 
+                            boardId:'board-1',
+                            columnId:'column-1',
+                            title:'Title of card 1',
                             cover:'https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8&w=1000&q=80'
                         },
                         { id:'card-2', boardId:'board-1', columnId:'column-1', title:'Title of card 2', cover:null },
@@ -22,7 +22,7 @@ export const initialData = {
                         { id:'card-4', boardId:'board-1', columnId:'column-1', title:'Title of card 4', cover:null },
                         { id:'card-5', boardId:'board-1', columnId:'column-1', title:'Title of card 5', cover:null },
                         { id:'card-6', boardId:'board-1', columnId:'column-1', title:'Title of card 6', cover:null },
-                        { id:'card-7', boardId:'board-1', columnId:'column-1', title:'Title of card 7', cover:null },
+                        { id:'card-7', boardId:'board-1', columnId:'column-1', title:'Title of card 7', cover:null }
                     ]
                 },
                 {
